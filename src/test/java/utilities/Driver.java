@@ -11,7 +11,7 @@ import org.openqa.selenium.firefox.FirefoxOptions;
 
 public class Driver {
 
-    //1-Make constructor private
+    //1-Make constructor private its very important
     private Driver(){
     }
 
